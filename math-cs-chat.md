@@ -154,8 +154,8 @@ You'll learn amazing things about yourself and others.
 
 # Where Was I?
 
-* While I was happy at Adfero, this even shook me, and I wanted to be a part of the solution
-* But before I could explore that, a recruiter for The Case Foundation came along
+* While I was happy at Adfero, this event shook me, and I wanted to be a part of the solution
+* But before I could explore that further, a recruiter for The Case Foundation came along
 
 ---
 
@@ -184,30 +184,90 @@ You'll learn amazing things about yourself and others.
 
 ---
 
-![bg 80%](https://casefoundation.org/wp-content/themes/casefoundation/networkmap/src/img/networkmap.png)
+![bg 80%](https://cdn-images-1.medium.com/max/800/0*hchTlUYSumCjre1q.jpg)
 
 ---
 
-![bg 80%](https://cdn-images-1.medium.com/max/800/0*hchTlUYSumCjre1q.jpg)
+![bg 80%](https://casefoundation.org/wp-content/themes/casefoundation/networkmap/src/img/networkmap.png)
 
 ---
 
 # Open Source
 
----
-
-# Open Source Projects
+"Generally, Open Source software is software that can be freely accessed, used, changed, and shared (in modified or unmodified form) by anyone. Open source software is made by many people, and distributed under licenses that comply with the Open Source Definition." (opensource.org)
 
 ---
 
-# Research Project
+# Why Do We Care?
+
+When properly supported, open source software can spark innovation, accelerate social good, and ultimately help change the world.
 
 ---
 
-# Why Liberal Arts Got Me Here
-
-* Tech touches everything
-* Need to empathize with others 
-* Our choices can have global impacts
+# How Does a Foundation Support Open Source?
 
 ---
+
+# Open Source Our Own Tech
+
+---
+
+![bg 90%](img/FoF.png)
+
+---
+
+![bg 85%](img/dashboard.png)
+
+---
+
+![bg 90%](img/weekly.png)
+
+---
+
+![bg 80%](img/reviewomatic.png)
+
+---
+
+# Advocate for and Educate About Open Source to Nonprofits
+
+---
+
+![bg 80%](img/ato.jpg)
+
+![bg 80%](img/ssir.png)
+
+![bg 80%](img/cfa.png)
+
+![bg 80%](img/github.png)
+
+
+---
+
+# Research What Prevents Nonprofits from Access, Use, and Sharing of Open Source Software
+
+---
+
+# Build Alliances with Others, like GitHub, who Are Working Towards Similar Goals
+
+---
+
+# The Long-Term, High-Level Goal Is To Better Equip Nonprofits To Innovate
+
+---
+
+# But Again, It All Comes Back To What I Learned Here
+
+---
+
+# Liberal Arts
+
+* Technology touches everything, so therefore we must be prepared to encounter anything
+* Technology is hard. We must empathize with others and be educators
+* Our choices can have global impact
+
+---
+
+# Thank You!
+
+johnj@casefoundation.org
+Twitter & GitHub: johnjones4
