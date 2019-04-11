@@ -1,0 +1,238 @@
+{
+  "events": [
+    {
+      "start_date": {
+        "year": 1983,
+        "month": 9,
+        "day": 27
+      },
+      "text": {
+        "headline": "Richard Stallman announces GNU",
+        "text": "Starting this Thanksgiving I am going to write a complete Unix-compatible software system called GNU (for Gnu's Not Unix), and give it away free(1) to everyone who can use it. Contributions of time, money, programs and equipment are greatly needed.\"  - Richard Stallman"
+      },
+      "media": {"url": "img/Richard_Matthew_Stallman.jpeg"},
+      "background": {"color":"#555"}
+    },
+    {
+      "start_date": {
+        "year": 1985,
+        "month": 10,
+        "day": 4
+      },
+      "text": {
+        "headline": "Richard Stallman launches the Free Software Foundation",
+        "text": "Free software is software that gives you the user the freedom to share, study and modify it. We call this free software because the user is free.\" - Richard Stallman"
+      },
+      "media": {"url": ""},
+      "background": {"url": "img/LibrePlanet_3.24.2019_Speakers.jpg"}
+    },
+    {
+      "start_date": {
+        "year": 1991,
+        "month": 8,
+        "day": 25
+      },
+      "text": {
+        "headline": "Linus Torvalds announces Linux",
+        "text": "Hello everybody out there using minix - I'm doing a (free) operating system (just a hobby, won't be big and professional like gnu) for 386(486) AT clones. This has been brewing since april, and is starting to get ready. I'd like any feedback on things people like/dislike in minix, as my OS resembles it somewhat (same physical layout of the file-system (due to practical reasons) among other things). I've currently ported bash(1.08) and gcc(1.40), and things seem to work. This implies that I'll get something practical within a few months, and I'd like to know what features most people would want. Any suggestions are welcome, but I won't promise I'll implement them :-) Linus (torvalds [at] kruuna.helsinki.fi) PS. Yes – it's free of any minix code, and it has a multi-threaded fs. It is NOT portable (uses 386 task switching etc), and it probably never will support anything other than AT-harddisks, as that's all I have :-(. —Linus Torvalds"
+      },
+      "media": {"url": "img/linus-torvalds.jpg"},
+      "background": {"color":"#555"}
+    },
+    {
+      "start_date": {
+        "year": 1993,
+        "month": 8,
+        "day": ""
+      },
+      "text": {
+        "headline": "Ian Murdock launches Debian Linux",
+        "text": "Debian Linux is a brand-new kind of Linux distribution. Rather than being developed by one isolated individual or group, as other distributions of Linux have been developed in the past, Debian is being developed openly in the spirit of Linux and GNU. The primary purpose of the Debian project is to finally create a distribution that lives up to the Linux name. Debian is being carefully and conscientiously put together and will be maintained and supported with similar care.\" - Ian Murdock"
+      },
+      "media": {"url": "img/debian-logo.jpg"},
+      "background": {"color":"#555"}
+    },
+    {
+      "start_date": {
+        "year": 1994,
+        "month": 7,
+        "day": 29
+      },
+      "text": {
+        "headline": "Marc Ewing releases first build of Red Hat Linux"
+      },
+      "media": {"url": "img/image00.png"},
+      "background": {"color":"#555"}
+    },
+    {
+      "start_date": {
+        "year": 1995,
+        "month": 12,
+        "day": 1
+      },
+      "text": {
+        "headline": "Apache HTTP Server launches",
+        "text": "As of August 2018, Netcraft estimates Apache serves 39% of all active websites and 35% of the top million websites."
+      },
+      "media": {"url": "img/Apache-http-server-696x383.png"},
+      "background": {"color":"#555"}
+    },
+    {
+      "start_date": {
+        "year": 1998,
+        "month": 2,
+        "day": 3
+      },
+      "text": {
+        "headline": "Christine Peterson coins the term \"Open Source\""
+      },
+      "media": {"url": "img/christinepeterson.faces23519.web_.jpg"},
+      "background": {"color":"#555"}
+    },
+    {
+      "start_date": {
+        "year": 1998,
+        "month": 1,
+        "day": ""
+      },
+      "text": {
+        "headline": "Netscape launches the Mozilla project"
+      },
+      "media": {"url": "img/Accueil-mozilla-1.6.png"},
+      "background": {"color":"#555"}
+    },
+    {
+      "start_date": {
+        "year": 1999,
+        "month": "",
+        "day": ""
+      },
+      "text": {
+        "headline": "SourceForge launches"
+      },
+      "media": {"url": "img/Sourceforge_logo.png"},
+      "background": {"color":"#555"}
+    },
+    {
+      "start_date": {
+        "year": 1999,
+        "month": 8,
+        "day": 11
+      },
+      "text": {
+        "headline": "Red Hat goes public"
+      },
+      "background": {"url": "img/gettyimages-629334396.jpg"}
+    },
+    {
+      "start_date": {
+        "year": 2001,
+        "month": 6,
+        "day": 1
+      },
+      "text": {
+        "headline": "Microsoft CEO Steve Ballmer calls Linux a cancer",
+        "text": "\"The way the license is written, if you use any open-source software, you have to make the rest of your software open source,\" Ballmer explained."
+      },
+      "media": {"url": "https://www.youtube.com/watch?v=Vhh_GeBPOhs"},
+      "background": {"color":"#555"}
+    },
+    {
+      "start_date": {
+        "year": 2003,
+        "month": 5,
+        "day": 27
+      },
+      "text": {
+        "headline": "WordPress launches",
+        "text": "As of April 2019, W3Techs estimates WordPress powers 33.6% of all websites."
+      },
+      "media": {"url": "img/wordpress-firstrelease.png"},
+      "background": {"color":"#555"}
+    },
+    {
+      "start_date": {
+        "year": 2005,
+        "month": 6,
+        "day": ""
+      },
+      "text": {
+        "headline": "Linus torvalds launches Git"
+      },
+      "media": {"url": "img/Cohen-Linus-Torvalds.jpg"},
+      "background": {"color":"#555"}
+    },
+    {
+      "start_date": {
+        "year": 2005,
+        "month": 7,
+        "day": ""
+      },
+      "text": {
+        "headline": "Google acquires Android for $50 million"
+      },
+      "media": {"url": "img/blackberrrry.png"},
+      "background": {"color":"#555"}
+    },
+    {
+      "start_date": {
+        "year": 2008,
+        "month": 2,
+        "day": 8
+      },
+      "text": {
+        "headline": "GitHub launches"
+      },
+      "media": {"url": "img/LAUNCH-blog-GitHub-2.png"},
+      "background": {"color":"#555"}
+    },
+    {
+      "start_date": {
+        "year": 2010,
+        "month": 8,
+        "day": 13
+      },
+      "text": {
+        "headline": "Oracle sues Google over use of Java APIs"
+      },
+      "media": {"url": "img/dbgxt2rvpd26udoyzcqn.0.0.jpg"},
+      "background": {"color":"#555"}
+    },
+    {
+      "start_date": {
+        "year": 2014,
+        "month": 11,
+        "day": 12
+      },
+      "text": {
+        "headline": "Microsoft announces the .NET Foundation"
+      },
+      "media": {"url": "img/swimlane-brand-dotnet-foundation.svg"},
+      "background": {"color":"#555"}
+    },
+    {
+      "start_date": {
+        "year": 2018,
+        "month": 10,
+        "day": ""
+      },
+      "text": {
+        "headline": "IBM acquires Red Hat for ~$34 billion"
+      },
+      "media": {"url": "img/ibm-redhat-tech-acquisitions.jpg"},
+      "background": {"color":"#555"}
+    },
+    {
+      "start_date": {
+        "year": 2018,
+        "month": 10,
+        "day": ""
+      },
+      "text": {
+        "headline": "Microsoft acquires GitHub for ~$7.5 billion"
+      },
+      "media": {"url": "img/microsoft-github-800x421.png"},
+      "background": {"color":"#555"}
+    }
+  ]
+}

@@ -240,7 +240,6 @@ When properly supported, open source software can spark innovation, accelerate s
 
 ![bg 80%](img/github.png)
 
-
 ---
 
 # Research What Prevents Nonprofits from Access, Use, and Sharing of Open Source Software
