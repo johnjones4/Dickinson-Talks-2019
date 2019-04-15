@@ -45,7 +45,7 @@ A philanthropic foundation is a nongovernmental, nonprofit organization, with as
 
 # Bill and Melinda Gates
 
-![width:400px](img/104924148-GettyImages-671289918-bill-melinda-gates)
+![width:400px](img/104924148-GettyImages-671289918-bill-melinda-gates.jpg)
 
 ---
 
@@ -87,7 +87,7 @@ You'll learn amazing things about yourself and others.
 
 # How?
 
-* Campus Invovlement: _The Dickinsonian_, Student Senate Tech Committee, Delta Sigma Phi (fraternity), Gray Hat.
+* Campus Invovlement: _The Dickinsonian_, Student Senate Tech Committee, Office of Communications, Delta Sigma Phi (fraternity), Gray Hat.
 * Diverse interactions showed me how different individuals from various majors/disciplines view and use technology.
 * **I realized that I wanted to do something that sat at the intersection of tech and society.**
 
@@ -122,13 +122,13 @@ You'll learn amazing things about yourself and others.
 
 # What I Did (More Practically)
 
-* Worked with clients to plan, design, and build technology for their communications challenges
+* Worked with clients to plan, design, and build technology solutions to meet their goals
 * Was both a hands-on programmer and a team leader, overseeing developers, project managers, and QA engineers
 * Most of what we built was on top of open source platforms like Drupal, and we dabbled in contributing our own open source projects
 
 ---
 
-# On the Side
+# And ...
 
 * Got involved in the DC tech community by networking, speaking at conferences, etc
 * Worked on my own side projects and open source work
@@ -140,13 +140,13 @@ You'll learn amazing things about yourself and others.
 
 ---
 
-# The 2016 election completly changed how we, as a society, view how technology can impact democracy.
+# The 2016 election completly changed how we, as a society, view technology and its impact on democracy.
 
 ---
 
 # Election 2016 Outcomes
 
-* We saw the full power of social media as an engine of propoganda
+* We saw the full power of social media as an engine of (mis)information
 * Our own personal data was turned against us
 * The safety & integrity of our voting system became a major concern
 
@@ -173,14 +173,14 @@ You'll learn amazing things about yourself and others.
 
 # A Day in the Life
 
-* Use data and analytics to inform our decision making
+* Lead and manage digital projects such as web and app builds
+* Employ data analytics to inform our decision making
 * Experiment with new technologies that might be useful to us or other nonprofits
 * Explore and promote the value of open source software in the social sector
-* Lead and manage digital projects such as web and app builds
 
 ---
 
-# <!--fit--> Some Cool Things We've Done
+# <!--fit--> Some Things We've Launched
 
 ---
 
@@ -208,7 +208,7 @@ When properly supported, open source software can spark innovation, accelerate s
 
 ---
 
-# Open Source Our Own Tech
+# Open Sourcing Our Own Tech
 
 ---
 
@@ -258,15 +258,15 @@ When properly supported, open source software can spark innovation, accelerate s
 
 ---
 
-# Liberal Arts
+# Technology+Liberal Arts
 
 * Technology touches everything, so therefore we must be prepared to encounter anything
-* Technology is hard. We must empathize with others and be educators
-* Our choices can have global impact
+* Technology is intimidating; we must empathize with others and be educators
+* Technology choices have global impact
 
 ---
 
-# Thank You!
+# Questions?
 
 johnj@casefoundation.org
 Twitter & GitHub: johnjones4
