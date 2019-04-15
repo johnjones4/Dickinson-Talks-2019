@@ -43,9 +43,9 @@ A philanthropic foundation is a nongovernmental, nonprofit organization, with as
 
 ---
 
-# Bill Gates
+# Bill and Melinda Gates
 
-![width:300px](img/Bill_Gates_2018.jpg)
+![width:400px](img/104924148-GettyImages-671289918-bill-melinda-gates)
 
 ---
 
