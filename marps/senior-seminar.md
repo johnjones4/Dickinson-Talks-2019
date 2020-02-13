@@ -12,21 +12,42 @@ John Jones '11
 
 ---
 
-# Crash Course On How We Got Here 
+## About Me:
 
-(1983 to today)
-
----
-
-![bg contain](img/Unix_history-simple.svg)
+* Live in Washington, DC
+* 2011 Graduate (Computer Science)
+* On Campus: The Dickinsonian, Student Senate Tech Committee, Office of Communications, Gray Hats, Delta Sig
 
 ---
 
-# Why should a developer care about open source?
+## Where I've Worked:
+
+* 2011 - 2016: Adfero
+* 2016 - 2019: The Case Foundation
+* 2020: Capital One Labs
 
 ---
 
-# Why should a developer care about open source?
+## Open Source Has Been a Huge Part of My Career
+
+* Opportunity to constantly learn
+* Helps me build things quickly
+* Access to a global  community of innovators
+* Last year, I led an open source research project
+
+---
+
+# Open Source: Crash Course On How We Got Here
+
+[(1983 to today)](http://0.0.0.0:8000/timeline/)
+
+---
+
+## Why should a developer care about open source?
+
+---
+
+### Why should a developer care about open source?
 
 1. It elevates your profile
 1. It gives you the power of choice
@@ -34,19 +55,19 @@ John Jones '11
 
 ---
 
-# Why should a business care about open source?
+## Why should a business care about open source?
 
 ---
 
-# Why should a business care about open source?
+### Why should a business care about open source?
 
-1. It attracts talented develoeprs
-1. It is a form of technical leadership
-1. It is a strategy for priming a market
+1. It attracts talented developers to the organization
+1. It is a form of technical leadership whereby the organization can publicly demonstrate its talent
+1. Open source standards (good documentation, abstraction, testing) are also the halmarks of good software in general
 
 ---
 
-# Some Big (Non-Tech) Names in OSS
+## Some Big (Non-Tech) Names in OSS
 
 ---
 
@@ -66,11 +87,41 @@ John Jones '11
 
 ---
 
+# How Will You Professionally Interact with Open Source Software?
+
+---
+
+## As a User
+
+* Most developer tools are open source
+* Major platforms, languages, etc like NGINX, React, Node.JS, Python, Ruby on Rails, etc are open source
+* Open source tools like GitHub are used for project/code management
+
+---
+
+## As an At-Work Contributor
+
+* Organizations often have open source projects they originated and maintain.
+  * React by Facebook
+  * Tensorflow by Google
+  * Ruby on Rails by 37 Signals
+* Open source standards (good documentation, abstraction, testing) are also the halmarks of good software in general
+
+---
+
+## As an Individual Contributor
+
+* Contributions to larger projects that you "adopt"
+* Sharing your own personal/passion projects
+* Volunteering your time and talent to good causes
+
+---
+
 # Problems In Open Source
 
 ---
 
-[Tabs vs. Spaces](https://www.youtube.com/watch?v=SsoOG6ZeyUI)
+[Tabs vs. Spaces](https://youtu.be/SsoOG6ZeyUI?t=31)
 
 ---
 
@@ -114,15 +165,13 @@ The gender imbalance in open source remains profound: 95% of respondents are men
 
 ## By the Numbers
 
-In 2018 ...
-
 * GitHub alone had 31m+ developers, 2.1m+ organizations, and 96m+ projects
-* There was $22.48b in open source in exits
+* There was $22.48b in open source in exits in 2018
 * Hong Kong, Singapore, Egypt, Nigeria, and Bangladesh were the contributors of the most new users to GitHub
 
 ---
 
-## GitHub Has Competition
+## AND GitHub Has Competition
 
 * GitLab (Totally Open Source)
 * BitBucket
@@ -130,59 +179,13 @@ In 2018 ...
 
 ---
 
-## Microsoft is in the Game
+## Old Giants Like Microsoft Are In the Game
 
 “Microsoft has heritage here. We were a developer tools company first and now, of course, we are all in on open source, and that’s what really brings us together with GitHub,” - Microsoft CEO Satya Nadella 
 
 ---
 
-# How Do I Contribute?
-
----
-
-## Open Source Case Foundation's Tech
-
----
-
-![bg 90%](img/FoF.png)
-
----
-
-![bg 85%](img/dashboard.png)
-
----
-
-![bg 90%](img/weekly.png)
-
----
-
-![bg 80%](img/reviewomatic.png)
-
----
-
-## Advocate for and Educate About Open Source to Nonprofits
-
----
-
-![bg 80%](img/ato.jpg)
-
-![bg 80%](img/ssir.png)
-
-![bg 80%](img/cfa.png)
-
-![bg 80%](img/github.png)
-
----
-
-## Research What Prevents Nonprofits from Access, Use, and Sharing of Open Source Software
-
----
-
-## Build Alliances with Others, like GitHub, who Are Working Towards Similar Goals
-
----
-
 # Thank You!
 
-johnj@casefoundation.org
+johnjones4@gmail.com
 Twitter & GitHub: johnjones4

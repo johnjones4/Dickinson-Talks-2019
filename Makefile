@@ -2,10 +2,6 @@ senior-seminar-presentation:
 	open http://localhost:8080/senior-seminar.md
 	cd marps && marp --server --watch ./
 
-math-cs-chat-presentation:
-	open http://localhost:8080/math-cs-chat.md
-	cd marps && marp --server --watch ./
-
 presentations:
 	marp -I ./marps -o marps
 
