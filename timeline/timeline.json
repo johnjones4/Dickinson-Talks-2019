@@ -72,7 +72,7 @@
       },
       "text": {
         "headline": "Apache HTTP Server launches",
-        "text": "As of August 2018, Netcraft estimates Apache serves 39% of all active websites and 35% of the top million websites."
+        "text": "As of March 2021, Netcraft estimates Apache serves 25.98% of all active websites and 35% of the top million websites."
       },
       "media": {"url": "img/Apache-http-server-696x383.png"},
       "background": {"color":"#555"}
@@ -145,7 +145,7 @@
       },
       "text": {
         "headline": "WordPress launches",
-        "text": "As of April 2019, W3Techs estimates WordPress powers 33.6% of all websites."
+        "text": "As of April 2021, W3Techs estimates WordPress powers 44.1% of all websites."
       },
       "media": {"url": "img/wordpress-firstrelease.png"},
       "background": {"color":"#555"}
@@ -188,18 +188,6 @@
     },
     {
       "start_date": {
-        "year": 2010,
-        "month": 8,
-        "day": 13
-      },
-      "text": {
-        "headline": "Oracle sues Google over use of Java APIs"
-      },
-      "media": {"url": "img/dbgxt2rvpd26udoyzcqn.0.0.jpg"},
-      "background": {"color":"#555"}
-    },
-    {
-      "start_date": {
         "year": 2014,
         "month": 11,
         "day": 12
@@ -232,6 +220,30 @@
         "headline": "Microsoft acquires GitHub for ~$7.5 billion"
       },
       "media": {"url": "img/microsoft-github-800x421.png"},
+      "background": {"color":"#555"}
+    },
+    {
+      "start_date": {
+        "year": 2019,
+        "month": 9,
+        "day": ""
+      },
+      "text": {
+        "headline": "Richard Stallman resigns from MIT over Epstein comments"
+      },
+      "media": {"url": "img/stallman2019.jpg"},
+      "background": {"color":"#555"}
+    },
+    {
+      "start_date": {
+        "year": 2021,
+        "month": 3,
+        "day": ""
+      },
+      "text": {
+        "headline": "Richard M. Stallman returns to the Free Software Foundation Board of Directors"
+      },
+      "media": {"url": "img/stallman2019.jpg"},
       "background": {"color":"#555"}
     }
   ]

@@ -24,7 +24,15 @@ John Jones '11
 
 * 2011 - 2016: Adfero
 * 2016 - 2019: The Case Foundation
-* 2020: Capital One Labs
+* 2020: The Capital One Lab
+
+---
+
+## What I Do Now:
+
+* Lead research and exploration of new technology that can improve our business or our customers' experiences
+* Work with product managers and designers to build early-stage, high-risk products
+* Advocate and promote new technology within the organization
 
 ---
 
@@ -32,34 +40,24 @@ John Jones '11
 
 * Opportunity to constantly learn
 * Helps me build things quickly
-* Access to a global  community of innovators
-* Last year, I led an open source research project
+* I've lead programs exploring and promoting its use at nonprofits
+* I use it daily to drive innovation at Capital One
 
 ---
 
 # Open Source: Crash Course On How We Got Here
 
-[(1983 to today)](http://0.0.0.0:8000/timeline/)
+[(19** to today)](http://0.0.0.0:8000/timeline/)
+
+---
+### Why should a developer care about open source software?
+
+1. Contributing to it builds your experience and elevates your visibility
+1. Using it gives you the powers of choice and control
 
 ---
 
-## Why should a developer care about open source?
-
----
-
-### Why should a developer care about open source?
-
-1. It elevates your profile
-1. It gives you the power of choice
-1. It is philantrhopic
-
----
-
-## Why should a business care about open source?
-
----
-
-### Why should a business care about open source?
+### Why should a business care about open source software?
 
 1. It attracts talented developers to the organization
 1. It is a form of technical leadership whereby the organization can publicly demonstrate its talent
@@ -83,7 +81,7 @@ John Jones '11
 
 ---
 
-![bg 80%](img/goldman.png)
+![bg 80%](img/capitalone.png)
 
 ---
 
@@ -95,7 +93,6 @@ John Jones '11
 
 * Most developer tools are open source
 * Major platforms, languages, etc like NGINX, React, Node.JS, Python, Ruby on Rails, etc are open source
-* Open source tools like GitHub are used for project/code management
 
 ---
 
@@ -106,6 +103,7 @@ John Jones '11
   * Tensorflow by Google
   * Ruby on Rails by 37 Signals
 * Open source standards (good documentation, abstraction, testing) are also the halmarks of good software in general
+* Open source community-originated tools like GitHub are used for internal project/code management
 
 ---
 
@@ -121,10 +119,6 @@ John Jones '11
 
 ---
 
-[Tabs vs. Spaces](https://youtu.be/SsoOG6ZeyUI?t=31)
-
----
-
 ## Linus Torvalds in 2016:
 
 ![](img/Linus.png)
@@ -134,10 +128,6 @@ John Jones '11
 ## Benevolent Dictator for Life
 
 (BDFL)
-
----
-
-## Contributor Covenant / Code of Conduct Controversy
 
 ---
 
@@ -188,4 +178,5 @@ The gender imbalance in open source remains profound: 95% of respondents are men
 # Thank You!
 
 johnjones4@gmail.com
+linkedin.com/in/johnjones4
 Twitter & GitHub: johnjones4
